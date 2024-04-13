@@ -38,3 +38,10 @@ npm i -D vite postcss autoprefixer
 # PostCss
 
 npx tailwindcss init -p
+
+"n \* 4 = px"
+"n / 4 = rem"
+
+# SimpleIcons
+
+https://simpleicons.org/
